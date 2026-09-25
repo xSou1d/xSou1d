@@ -1,4 +1,4 @@
-# Hi, I'm Saylor 👋
+# Hi, I'm Saylor!
 I'm a Data Science student at the **University of Florida**, graduating May 2027, and continuing into the **M.S. Statistics** program through 2029. I'm working toward a career in **quantitative research** — building the statistical depth, programming foundations, and financial intuition to do rigorous empirical work in that space.
 
 My background sits at the intersection of statistical modeling, algorithm design, and applied data analysis. I'm comfortable in both Python and C++, and I care about doing things correctly — documented assumptions, honest reporting of results, and methodology that holds up under scrutiny.
